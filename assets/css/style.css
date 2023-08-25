@@ -1,4 +1,10 @@
- /*Header*/
+/*Asterix wildcar selector to override default styles added*/
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+/*Header*/
 header {
     background-color: lightcoral;
 }
